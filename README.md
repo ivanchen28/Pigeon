@@ -1,6 +1,6 @@
 # Pigeon
 
-1. lodash.difference("pigeon", "dove")?
+1\. `lodash.difference("pigeon", "dove")`?
 <ol type="a">
     <li>pigeons have better homing capabilities, they'll find a way into your home</li>
     <li>pigeons are domesticated, and will refuse to leave</li>
